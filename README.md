@@ -130,7 +130,6 @@ Then open http://localhost:5000 in your browser.
 
 ## Future Plans:
 - **Improve the responsiveness** of the Insights page for a better user experience.
-- **Add export options** (CSV/PDF) to allow easy downloading of predictions and results.
 
 ## What I Learned:
 - **End-to-End ML Pipeline Integration**: Gained hands-on experience integrating the machine learning pipeline within a web app.
