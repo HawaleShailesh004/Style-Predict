@@ -6,3 +6,5 @@ pandas==2.3.3
 python-dotenv==1.2.1
 reportlab==4.4.7
 seaborn==0.13.2
+gunicorn==21.2.0
+
